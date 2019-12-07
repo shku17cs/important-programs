@@ -1,4 +1,4 @@
- // to calculate the longest pallindromic substrings//
+ // to calculate the longest pallindromic substrings in a given string//
  #include<bits/stdc++.h>
 #include<string>
 using namespace std;
